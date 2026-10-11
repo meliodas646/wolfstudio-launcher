@@ -9,11 +9,11 @@
         "Preparado para jugar WolfSafio?"
       ],
       "author": "Meliodas646",
-      "icon": "https://github.com/meliodas646/wolfstudio-mods/blob/main/logo.png",
-      "banner": "https://github.com/meliodas646/wolfstudio-mods/blob/main/banner.png",
+      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/logo.png",
+      "banner": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/banner.png",
       "mc": "1.20.1",
       "loader": "forge",
-      "loaderVersion": "47.3.0",
+      "loaderVersion": "47.4.0",
       "ram": 6144,
       "version": 1,
       "files": [
@@ -26,47 +26,7 @@
         { "path": "mods/dedsafio-1_0_0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio-1_0_0.jar", "sha1": "57e8e9136d9649a6df96a4857989ed3d07ce144f" },
         { "path": "mods/dedsafio3-0.0.9-forge-1.20.1-1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio3-0.0.9-forge-1.20.1-1.jar", "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b" },
         { "path": "mods/geckolib-forge-1.20.1-4.8.3.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/geckolib-forge-1.20.1-4.8.3.jar", "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7" },
-        { "path": "mods/gulag-1.0.0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/gulag-1.0.0.jar", "sha1": "1e006205e00b93cb757d8dd78c0eedc19ebc07fb" },
-        { "path": "mods/incontrol-1.20-9.4.6.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/incontrol-1.20-9.4.6.jar", "sha1": "0d324b97af98938f28f58f696e0b992c42eb8f31" },
-        { "path": "mods/jei-1.20.1-forge-15.20.0.130.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/jei-1.20.1-forge-15.20.0.130.jar", "sha1": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34" },
-        { "path": "mods/journeymap-1.20.1-5.10.3-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/journeymap-1.20.1-5.10.3-forge.jar", "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a" },
-        { "path": "mods/KeepTheResourcePack-1.20.1-1.0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/KeepTheResourcePack-1.20.1-1.0.jar", "sha1": "1e8a5c9146fe6b95169c9d83fae1305ea5a62b14" },
-        { "path": "mods/modminds-1.0.6-forge-1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/modminds-1.0.6-forge-1.20.1.jar", "sha1": "54846e26029f6bddaecd26a224d9f7f2ec43a124" },
-        { "path": "mods/Pehkui-3.8.2-1.20.1-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/Pehkui-3.8.2-1.20.1-forge.jar", "sha1": "4bc816efdd8e5e2a97423313674401351710e403" },
-        { "path": "mods/plasmovoice-forge-1.20.1-2.1.9.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/plasmovoice-forge-1.20.1-2.1.9.jar", "sha1": "f8196a73c14410fe8a03758639397bc2cd3509e3" },
-        { "path": "mods/worldedit-mod-7.2.15.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/worldedit-mod-7.2.15.jar", "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f" }
-      ]
-    }
-  ]
-}
-{
-  "instances": [
-    {
-      "id": "forge-1201",
-      "name": "Wolfstudio Forge 1.20.1",
-      "description": "Pack de mods Forge.",
-      "details": [
-        "WolfSafio chicos",
-        "Preparado para jugar WolfSafio?"
-      ],
-      "author": "Meliodas646",
-      "icon": "https://github.com/meliodas646/wolfstudio-mods/blob/main/logo.png",
-      "banner": "https://github.com/meliodas646/wolfstudio-mods/blob/main/banner.png",
-      "mc": "1.20.1",
-      "loader": "forge",
-      "loaderVersion": "47.3.0",
-      "ram": 6144,
-      "version": 1,
-      "files": [
-        { "path": "mods/architectury-9.2.14-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/architectury-9.2.14-forge.jar", "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4" },
-        { "path": "mods/cloth-config-11.1.136-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/cloth-config-11.1.136-forge.jar", "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f" },
-        { "path": "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar", "sha1": "77efad128734603800f65fe4c21c8958d74aff2a" },
-        { "path": "mods/create-1.20.1-6.0.8.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/create-1.20.1-6.0.8.jar", "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9" },
-        { "path": "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar", "sha1": "63266ada26623903a508b6bdd5486f2b9a33c054" },
-        { "path": "mods/CustomPlayerModels-1.20-0.6.25a.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CustomPlayerModels-1.20-0.6.25a.jar", "sha1": "fc4f720cb0233ed08cbd6055865423189d757d37" },
-        { "path": "mods/dedsafio-1_0_0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio-1_0_0.jar", "sha1": "57e8e9136d9649a6df96a4857989ed3d07ce144f" },
-        { "path": "mods/dedsafio3-0.0.9-forge-1.20.1-1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio3-0.0.9-forge-1.20.1-1.jar", "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b" },
-        { "path": "mods/geckolib-forge-1.20.1-4.8.3.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/geckolib-forge-1.20.1-4.8.3.jar", "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7" },
+        {"path": "mods/more_owleaf-1.3.6.jar","url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/more_owleaf-1.3.6.jar","sha1": "9f4fd393da91fa6e8862302d4dc618d1b307e39f"}
         { "path": "mods/gulag-1.0.0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/gulag-1.0.0.jar", "sha1": "1e006205e00b93cb757d8dd78c0eedc19ebc07fb" },
         { "path": "mods/incontrol-1.20-9.4.6.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/incontrol-1.20-9.4.6.jar", "sha1": "0d324b97af98938f28f58f696e0b992c42eb8f31" },
         { "path": "mods/jei-1.20.1-forge-15.20.0.130.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/jei-1.20.1-forge-15.20.0.130.jar", "sha1": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34" },
