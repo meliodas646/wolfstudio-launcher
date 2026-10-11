@@ -1,0 +1,36 @@
+{
+  "instances": [
+    {
+      "id": "survival-fabric",
+      "name": "Survival con mods",
+      "description": "Pack base con optimización y calidad de vida.",
+      "mc": "1.20.1",
+      "loader": "fabric",
+      "loaderVersion": "0.16.9",
+      "ram": 4096,
+      "version": 1,
+      "files": [
+        {
+          "path": "mods/fabric-api.jar",
+          "url": "https://TU_HOST/mods/fabric-api.jar",
+          "sha1": "SHA1_DEL_ARCHIVO"
+        },
+        {
+          "path": "mods/sodium.jar",
+          "url": "https://TU_HOST/mods/sodium.jar",
+          "sha1": "SHA1_DEL_ARCHIVO"
+        }
+      ]
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla",
+      "description": "Minecraft sin mods.",
+      "mc": "1.21.1",
+      "loader": "vanilla",
+      "ram": 3072,
+      "version": 1,
+      "files": []
+    }
+  ]
+}
