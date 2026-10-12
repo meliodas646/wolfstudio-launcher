@@ -140,12 +140,22 @@
         {
           "path": "config/fancymenu/assets/logoo.png",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/assets/logoo.png",
-          "sha1": "38bde2ce39727f8a6608e887c651287797b37b9c"
+          "sha1": "cd88d0533881f5b830bbebf6fe08ac927ae175b5"
+        },
+        {
+          "path": "config/fancymenu/assets/theme.ogg",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/assets/theme.ogg",
+          "sha1": "54954f8332303c12a8bf161df15fd1be71ce7754"
         },
         {
           "path": "config/fancymenu/customizablemenus.txt",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customizablemenus.txt",
           "sha1": "5cd5c8e016e92ead0b5fae79ef615ce3b9ba4625"
+        },
+        {
+          "path": "config/fancymenu/customization/connect_screen_layout.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/connect_screen_layout.txt",
+          "sha1": "d3b2b5a3491a560d0b1e3847caeecb34590549b6"
         },
         {
           "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
@@ -155,17 +165,27 @@
         {
           "path": "config/fancymenu/customization/options_screen_layout.txt",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/options_screen_layout.txt",
-          "sha1": "63f52dfca751f19dcf12bb4fdced3ad13e9f4fdf"
+          "sha1": "4bfb279d75859499abac4fc8381a39c1bac3bdf3"
+        },
+        {
+          "path": "config/fancymenu/customization/skin_customization_screen_layout.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/skin_customization_screen_layout.txt",
+          "sha1": "a53e794ca53a40dfc1e242c372dd76efcdf3db80"
         },
         {
           "path": "config/fancymenu/customization/title_screen_layout.txt",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/title_screen_layout.txt",
-          "sha1": "4cfd3d316da34b01a31ec4234b7f6a9c5025e46c"
+          "sha1": "11252586da7a1b8a2032165be38bb7f6095b7ee6"
         },
         {
           "path": "config/fancymenu/custom_gui_screens.txt",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/custom_gui_screens.txt",
           "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+        },
+        {
+          "path": "config/fancymenu/options.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/options.txt",
+          "sha1": "4550ddf4bf6d3930e70e0d2e91f37985cfd7f54b"
         }
       ]
     }
