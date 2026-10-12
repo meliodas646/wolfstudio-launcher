@@ -9,8 +9,8 @@
         "A"
       ],
       "author": "Wolfstudio",
-      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/icon.png",
-      "banner": "",
+      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/logo.png",
+      "banner": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/banner.png",
       "mc": "1.20.1",
       "loader": "forge",
       "loaderVersion": "47.4.0",
