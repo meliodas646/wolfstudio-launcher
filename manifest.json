@@ -6,14 +6,14 @@
       "description": "Pack de mods Forge.",
       "details": [
         "Pack de mods para jugar Dedsafio en Forge 1.20.1.",
-        "E"
+        "Escribe aquí lo que quieras mostrar en Detalles. Cada línea es un párrafo."
       ],
       "author": "Wolfstudio",
-      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/logo.png",
-      "banner": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/banner.png",
+      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/icon.png",
+      "banner": "",
       "mc": "1.20.1",
       "loader": "forge",
-      "loaderVersion": "47.4.0",
+      "loaderVersion": "47.3.0",
       "ram": 6144,
       "version": 1,
       "files": [
