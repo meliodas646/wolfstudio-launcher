@@ -18,7 +18,7 @@
       "version": 1,
       "files": [
         { "path": "mods/architectury-9.2.14-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/architectury-9.2.14-forge.jar", "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4" },
-        { "path": "mods/architectury-9.2.14-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/DEDSAFIO4-1.0.0-Forge.jar", "sha1": "51A07006003AC2CE3696DB6411322E0F7E660CE7" },
+        { "path": "mods/DEDSAFIO4-1.0.0-Forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/DEDSAFIO4-1.0.0-Forge.jar", "sha1": "ea73e0fe6bc1c8332fed2ebf5984b41fd81decb4798777438835c336c3943b81" },
         { "path": "mods/cloth-config-11.1.136-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/cloth-config-11.1.136-forge.jar", "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f" },
         { "path": "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar", "sha1": "77efad128734603800f65fe4c21c8958d74aff2a" },
         { "path": "mods/create-1.20.1-6.0.8.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/create-1.20.1-6.0.8.jar", "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9" },
