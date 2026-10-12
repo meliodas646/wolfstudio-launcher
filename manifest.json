@@ -5,38 +5,233 @@
       "name": "Wolfstudio Forge 1.20.1",
       "description": "Pack de mods Forge.",
       "details": [
-        "WolfSafio chicos",
-        "Preparado para jugar WolfSafio?"
+        "Pack de mods para jugar Dedsafio en Forge 1.20.1.",
+        "Escribe aquí lo que quieras mostrar en Detalles. Cada línea es un párrafo."
       ],
-      "author": "Meliodas646",
-      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/logo.png",
-      "banner": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/banner.png",
+      "author": "Wolfstudio",
+      "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/icon.png",
+      "banner": "",
       "mc": "1.20.1",
       "loader": "forge",
       "loaderVersion": "47.4.0",
       "ram": 6144,
       "version": 1,
       "files": [
-        { "path": "mods/architectury-9.2.14-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/architectury-9.2.14-forge.jar", "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4" },
-        { "path": "mods/DEDSAFIO4-1.0.0-Forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/DEDSAFIO4-1.0.0-Forge.jar", "sha1": "ea73e0fe6bc1c8332fed2ebf5984b41fd81decb4798777438835c336c3943b81" },
-        { "path": "mods/cloth-config-11.1.136-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/cloth-config-11.1.136-forge.jar", "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f" },
-        { "path": "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar", "sha1": "77efad128734603800f65fe4c21c8958d74aff2a" },
-        { "path": "mods/create-1.20.1-6.0.8.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/create-1.20.1-6.0.8.jar", "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9" },
-        { "path": "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar", "sha1": "63266ada26623903a508b6bdd5486f2b9a33c054" },
-        { "path": "mods/CustomPlayerModels-1.20-0.6.25a.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CustomPlayerModels-1.20-0.6.25a.jar", "sha1": "fc4f720cb0233ed08cbd6055865423189d757d37" },
-        { "path": "mods/dedsafio-1_0_0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio-1_0_0.jar", "sha1": "72344b980febee17ba6beeca875bde5d3be9c059050bbb5a314c92dff742bc46" },
-        { "path": "mods/dedsafio3-0.0.9-forge-1.20.1-1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio3-0.0.9-forge-1.20.1-1.jar", "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b" },
-        { "path": "mods/geckolib-forge-1.20.1-4.8.3.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/geckolib-forge-1.20.1-4.8.3.jar", "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7" },
-        { "path": "mods/more_owleaf-1.3.6.jar","url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/more_owleaf-1.3.6.jar","sha1": "9f4fd393da91fa6e8862302d4dc618d1b307e39f" },
-        { "path": "mods/gulag-1.0.0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/gulag-1.0.0.jar", "sha1": "1e006205e00b93cb757d8dd78c0eedc19ebc07fb" },
-        { "path": "mods/incontrol-1.20-9.4.6.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/incontrol-1.20-9.4.6.jar", "sha1": "0d324b97af98938f28f58f696e0b992c42eb8f31" },
-        { "path": "mods/jei-1.20.1-forge-15.20.0.130.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/jei-1.20.1-forge-15.20.0.130.jar", "sha1": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34" },
-        { "path": "mods/journeymap-1.20.1-5.10.3-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/journeymap-1.20.1-5.10.3-forge.jar", "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a" },
-        { "path": "mods/KeepTheResourcePack-1.20.1-1.0.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/KeepTheResourcePack-1.20.1-1.0.jar", "sha1": "1e8a5c9146fe6b95169c9d83fae1305ea5a62b14" },
-        { "path": "mods/modminds-1.0.6-forge-1.20.1.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/modminds-1.0.6-forge-1.20.1.jar", "sha1": "54846e26029f6bddaecd26a224d9f7f2ec43a124" },
-        { "path": "mods/Pehkui-3.8.2-1.20.1-forge.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/Pehkui-3.8.2-1.20.1-forge.jar", "sha1": "4bc816efdd8e5e2a97423313674401351710e403" },
-        { "path": "mods/plasmovoice-forge-1.20.1-2.1.9.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/plasmovoice-forge-1.20.1-2.1.9.jar", "sha1": "f8196a73c14410fe8a03758639397bc2cd3509e3" },
-        { "path": "mods/worldedit-mod-7.2.15.jar", "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/worldedit-mod-7.2.15.jar", "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f" }
+        {
+          "path": "mods/architectury-9.2.14-forge.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/architectury-9.2.14-forge.jar",
+          "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+        },
+        {
+          "path": "mods/cloth-config-11.1.136-forge.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/cloth-config-11.1.136-forge.jar",
+          "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+        },
+        {
+          "path": "mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+          "sha1": "77efad128734603800f65fe4c21c8958d74aff2a"
+        },
+        {
+          "path": "mods/create-1.20.1-6.0.8.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/create-1.20.1-6.0.8.jar",
+          "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9"
+        },
+        {
+          "path": "mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+          "sha1": "63266ada26623903a508b6bdd5486f2b9a33c054"
+        },
+        {
+          "path": "mods/CustomPlayerModels-1.20-0.6.25a.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/CustomPlayerModels-1.20-0.6.25a.jar",
+          "sha1": "fc4f720cb0233ed08cbd6055865423189d757d37"
+        },
+        {
+          "path": "mods/dedsafio-1_0_0.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio-1_0_0.jar",
+          "sha1": "57e8e9136d9649a6df96a4857989ed3d07ce144f"
+        },
+        {
+          "path": "mods/dedsafio3-0.0.9-forge-1.20.1-1.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/dedsafio3-0.0.9-forge-1.20.1-1.jar",
+          "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b"
+        },
+        {
+          "path": "mods/DEDSAFIO4-1.0.0-Forge.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/DEDSAFIO4-1.0.0-Forge.jar",
+          "sha1": "51a07006003ac2ce3696db6411322e0f7e660ce7"
+        },
+        {
+          "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+          "sha1": "8916c8f2f12a986365148661fb59650950913b32"
+        },
+        {
+          "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/geckolib-forge-1.20.1-4.8.3.jar",
+          "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7"
+        },
+        {
+          "path": "mods/gulag-1.0.0.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/gulag-1.0.0.jar",
+          "sha1": "1e006205e00b93cb757d8dd78c0eedc19ebc07fb"
+        },
+        {
+          "path": "mods/incontrol-1.20-9.4.6.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/incontrol-1.20-9.4.6.jar",
+          "sha1": "0d324b97af98938f28f58f696e0b992c42eb8f31"
+        },
+        {
+          "path": "mods/jei-1.20.1-forge-15.20.0.130.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/jei-1.20.1-forge-15.20.0.130.jar",
+          "sha1": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34"
+        },
+        {
+          "path": "mods/journeymap-1.20.1-5.10.3-forge.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/journeymap-1.20.1-5.10.3-forge.jar",
+          "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a"
+        },
+        {
+          "path": "mods/KeepTheResourcePack-1.20.1-1.0.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/KeepTheResourcePack-1.20.1-1.0.jar",
+          "sha1": "1e8a5c9146fe6b95169c9d83fae1305ea5a62b14"
+        },
+        {
+          "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+          "sha1": "2019d821bed9071daabed43979433a5473ceee49"
+        },
+        {
+          "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8"
+        },
+        {
+          "path": "mods/modminds-1.0.6-forge-1.20.1.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/modminds-1.0.6-forge-1.20.1.jar",
+          "sha1": "54846e26029f6bddaecd26a224d9f7f2ec43a124"
+        },
+        {
+          "path": "mods/more_owleaf-1.3.6.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/more_owleaf-1.3.6.jar",
+          "sha1": "9f4fd393da91fa6e8862302d4dc618d1b307e39f"
+        },
+        {
+          "path": "mods/Pehkui-3.8.2-1.20.1-forge.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/Pehkui-3.8.2-1.20.1-forge.jar",
+          "sha1": "4bc816efdd8e5e2a97423313674401351710e403"
+        },
+        {
+          "path": "mods/plasmovoice-forge-1.20.1-2.1.9.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/plasmovoice-forge-1.20.1-2.1.9.jar",
+          "sha1": "f8196a73c14410fe8a03758639397bc2cd3509e3"
+        },
+        {
+          "path": "mods/worldedit-mod-7.2.15.jar",
+          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/worldedit-mod-7.2.15.jar",
+          "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+        },
+        {
+          "path": "config/fancymenu/assets/imagen_animada_v2.gif",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/assets/imagen_animada_v2.gif",
+          "sha1": "01c0aa5a98233c985e16db81c893117430cfdfa5"
+        },
+        {
+          "path": "config/fancymenu/assets/logoo.png",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/assets/logoo.png",
+          "sha1": "38bde2ce39727f8a6608e887c651287797b37b9c"
+        },
+        {
+          "path": "config/fancymenu/customizablemenus.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customizablemenus.txt",
+          "sha1": "5cd5c8e016e92ead0b5fae79ef615ce3b9ba4625"
+        },
+        {
+          "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/join_multiplayer_screen_layout.txt",
+          "sha1": "46ac06f8e5f5dcf18ff51f4ee9cf754c6fde1513"
+        },
+        {
+          "path": "config/fancymenu/customization/options_screen_layout.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/options_screen_layout.txt",
+          "sha1": "63f52dfca751f19dcf12bb4fdced3ad13e9f4fdf"
+        },
+        {
+          "path": "config/fancymenu/customization/title_screen_layout.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/title_screen_layout.txt",
+          "sha1": "4cfd3d316da34b01a31ec4234b7f6a9c5025e46c"
+        },
+        {
+          "path": "config/fancymenu/custom_gui_screens.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/custom_gui_screens.txt",
+          "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+        },
+        {
+          "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/layout_editor/widgets/element_layer_control.lewidget",
+          "sha1": "adc605cf794120522f34a402a4301baf4e59350d"
+        },
+        {
+          "path": "config/fancymenu/legacy_checklist.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/legacy_checklist.txt",
+          "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+        },
+        {
+          "path": "config/fancymenu/options.txt",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/options.txt",
+          "sha1": "1735d72a01c594352fbcc3b0550a45e4da5d014b"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/cherry_blossom.json",
+          "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/cozy_campfire.json",
+          "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/dark.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/dark.json",
+          "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/dark_high_contrast.json",
+          "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/light.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/light.json",
+          "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/light_high_contrast.json",
+          "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/pumpkin_soup.json",
+          "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/purple_void.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/purple_void.json",
+          "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+        },
+        {
+          "path": "config/fancymenu/ui_themes/spooky_season.json",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/ui_themes/spooky_season.json",
+          "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+        },
+        {
+          "path": "config/fancymenu/user_variables.db",
+          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/user_variables.db",
+          "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+        }
       ]
     }
   ]
