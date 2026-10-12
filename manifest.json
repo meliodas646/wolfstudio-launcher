@@ -5,10 +5,10 @@
       "name": "Wolfstudio Forge 1.20.1",
       "description": "Pack de mods Forge.",
       "details": [
-        "Dedsafio creado por wolfstudio",
-        "Launcher creador para Wolfsafio "
+        "WolfSafio",
+        "Launcher creado para WolfStudio"
       ],
-      "author": "Wolfstudio",
+      "author": "meliodas646",
       "icon": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/logo.png",
       "banner": "https://raw.githubusercontent.com/meliodas646/wolfstudio-mods/main/banner.png",
       "mc": "1.20.1",
@@ -150,7 +150,7 @@
         {
           "path": "config/fancymenu/customizablemenus.txt",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customizablemenus.txt",
-          "sha1": "5cd5c8e016e92ead0b5fae79ef615ce3b9ba4625"
+          "sha1": "6c7578d57aadc66e1e344544f4705a21747e4e9d"
         },
         {
           "path": "config/fancymenu/customization/connect_screen_layout.txt",
