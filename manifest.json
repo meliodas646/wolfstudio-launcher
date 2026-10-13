@@ -153,11 +153,6 @@
           "sha1": "6c7578d57aadc66e1e344544f4705a21747e4e9d"
         },
         {
-          "path": "config/fancymenu/customization/connect_screen_layout.txt",
-          "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/connect_screen_layout.txt",
-          "sha1": "d3b2b5a3491a560d0b1e3847caeecb34590549b6"
-        },
-        {
           "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
           "url": "https://raw.githubusercontent.com/meliodas646/wolfstudio-launcher/main/fancymenu-config/customization/join_multiplayer_screen_layout.txt",
           "sha1": "46ac06f8e5f5dcf18ff51f4ee9cf754c6fde1513"
