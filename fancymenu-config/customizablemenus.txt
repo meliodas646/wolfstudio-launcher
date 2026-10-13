@@ -9,8 +9,5 @@ net.minecraft.client.gui.screens.OptionsScreen {
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
-net.minecraft.client.gui.screens.ConnectScreen {
-}
-
 net.minecraft.client.gui.screens.SkinCustomizationScreen {
 }
