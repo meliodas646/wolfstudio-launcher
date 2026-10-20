@@ -83,11 +83,6 @@
           "sha1": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34"
         },
         {
-          "path": "mods/watermedia-2.1.37.jar",
-          "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/watermedia-2.1.37.jar",
-          "sha1": "4a91d20d9a3aa8d66e01f7962d77c974ad538f4f"
-        },
-        {
           "path": "mods/journeymap-1.20.1-5.10.3-forge.jar",
           "url": "https://github.com/meliodas646/wolfstudio-mods/releases/download/mods/journeymap-1.20.1-5.10.3-forge.jar",
           "sha1": "d0bbe7c23049892b154b6417904dd027fb53a37a"
